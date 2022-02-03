@@ -1,0 +1,2 @@
+
+time_stats(df)    
